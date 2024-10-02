@@ -1,6 +1,9 @@
 ---
-title: Home
+share: true
+created: 2024-10-02
+modified: 2024-10-02
+tags: 
+title: index
 layout: home
 ---
-
-A beginning is a very delicate time. Know then that is is the year 2024.
+# index
